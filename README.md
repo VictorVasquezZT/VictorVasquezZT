@@ -22,34 +22,34 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Basic Android Course</h3>
+      <h3 align="center">CodeManager</h3>
       <div align="center">
-        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-          <img src="https://i.imgur.com/Jji0CIE.jpg" width="100%" alt="Basic Android Course">
+        <a href="https://github.com/VictorVasquezZT2005/CodeManager" target="_blank">
+          <img src="https://i.imgur.com/Bm45WdD.png" width="100%" alt="CodeManager">
         </a>
         <p>
-          <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+          <a href="https://github.com/VictorVasquezZT2005/CodeManager" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p align="center">
-          Learn to program <strong>Android applications with Kotlin from scratch</strong>. FREE 12-hour course with all code available for download.
+            A specialized <strong>code management system</strong> developed for <strong>Profamilia Hospital</strong>. Built with <strong>Kotlin</strong> and <strong>DSL</strong> to ensure a robust and efficient workflow for medical data.
         </p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">MVVM Architecture</h3>
+      <h3 align="center">MindBox</h3>
       <div align="center">
-        <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-          <img src="https://i.imgur.com/7uCBigG.jpg" width="100%" alt="MVVM Architecture Course">
+        <a href="https://github.com/VictorVasquezZT2005/MindBox" target="_blank">
+          <img src="https://i.imgur.com/W94febl.png" width="100%" alt="MindBox">
         </a>
         <p>
-          <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+          <a href="https://github.com/VictorVasquezZT2005/MindBox" target="_blank">
             <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p align="center">
-          Architectures are <strong>ESSENTIAL</strong>. Learn to implement a real and robust architecture with DI, Clean Architecture, and Testing.
+            A <strong>decentralized application (dApp)</strong> designed for managing personal data securely. Developed using <strong>Kotlin</strong> and <strong>DSL</strong>, focusing on user privacy and data sovereignty.
         </p>
       </div>
     </td>
