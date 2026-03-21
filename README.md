@@ -9,12 +9,12 @@
 
 ## Sobre mi
 
-- GitHub Star & Junior Full-Stack Developer
-- Mobile Specialist: Creando apps multiplataforma robustas con Flutter y Kotlin.
-- Web Enthusiast: Desarrollando interfaces modernas y escalables con React y TypeScript.
-- +3 Años de Experiencia: Enfocado en arquitectura backend y principios de diseño UI/UX.
-- +30 Proyectos Públicos: Soluciones reales que puedes explorar en mi ecosistema digital.
-- Aprendizaje Continuo: Expandiendo habilidades para entregar experiencias nativas y fluidas.
+- ⭐ GitHub Star & Junior Full-Stack Developer
+- 📱 Mobile Specialist: Creando apps multiplataforma robustas con Flutter y Kotlin.
+- 🌐 Web Enthusiast: Desarrollando interfaces modernas y escalables con React y TypeScript.
+- 🛠️ +3 Años de Experiencia: Enfocado en arquitectura backend y principios de diseño UI/UX.
+- 📂 +30 Proyectos Públicos: Soluciones reales que puedes explorar en mi ecosistema digital.
+- 🎓 Aprendizaje Continuo: Expandiendo habilidades para entregar experiencias nativas y fluidas.
 
 ## Proyectos *bombitas*
 <table>
