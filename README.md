@@ -9,13 +9,12 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+110k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+- GitHub Star & Junior Full-Stack Developer
+- Mobile Specialist: Creando apps multiplataforma robustas con Flutter y Kotlin.
+- Web Enthusiast: Desarrollando interfaces modernas y escalables con React y TypeScript.
+- +3 Años de Experiencia: Enfocado en arquitectura backend y principios de diseño UI/UX.
+- +30 Proyectos Públicos: Soluciones reales que puedes explorar en mi ecosistema digital.
+- Aprendizaje Continuo: Expandiendo habilidades para entregar experiencias nativas y fluidas.
 
 ## Proyectos *bombitas*
 <table>
