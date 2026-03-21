@@ -6,7 +6,6 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@VictorZT2005?sub_confirmation=1)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook)](https://www.facebook.com/VictorZT2005)
 [![GitHub followers](https://img.shields.io/github/followers/victorvasquezzt2005?style=social)](https://github.com/VictorVasquezZT2005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/victor-vasquez-4555522ba)
 
 ## Sobre mi
 
