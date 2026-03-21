@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://aristi.dev">VictorZT2005</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/VictorVasquezZT2005">VictorZT2005</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/yuNyoP5.png">
 
@@ -18,35 +18,39 @@
 - 🎓 **Continuous Learning**: Expanding skills to deliver smooth and native-feeling experiences.
 
 ## Featured Projects
-<table>
+
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Basic Android Course</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-          <img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Basic Android Course">
+          <img src="https://i.imgur.com/Jji0CIE.jpg" width="100%" alt="Basic Android Course">
         </a>
         <p>
           <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Learn to program **Android applications with Kotlin from scratch**. In this course, you'll learn everything necessary as no prior knowledge is required. **FREE 12-hour course** with all code available for download.</p>
+        <p align="center">
+          Learn to program <strong>Android applications with Kotlin from scratch</strong>. FREE 12-hour course with all code available for download.
+        </p>
       </div>
     </td>
-
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">MVVM Architecture</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-          <img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="MVVM Architecture Course">
+          <img src="https://i.imgur.com/7uCBigG.jpg" width="100%" alt="MVVM Architecture Course">
         </a>
         <p>
           <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
             <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Architectures are **ESSENTIAL** for working as an Android developer. In this course, divided by branches, you will learn to implement a real and robust architecture with dependency injection, clean architecture, testing, and much more.</p>
+        <p align="center">
+          Architectures are <strong>ESSENTIAL</strong>. Learn to implement a real and robust architecture with DI, Clean Architecture, and Testing.
+        </p>
       </div>
     </td>
   </tr>
